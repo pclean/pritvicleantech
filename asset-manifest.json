@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/pritvicleantech/static/css/main.5f361e03.chunk.css",
+    "main.js": "/pritvicleantech/static/js/main.59ef35f4.chunk.js",
+    "main.js.map": "/pritvicleantech/static/js/main.59ef35f4.chunk.js.map",
+    "runtime-main.js": "/pritvicleantech/static/js/runtime-main.3084f66f.js",
+    "runtime-main.js.map": "/pritvicleantech/static/js/runtime-main.3084f66f.js.map",
+    "static/js/2.6e9dc9ce.chunk.js": "/pritvicleantech/static/js/2.6e9dc9ce.chunk.js",
+    "static/js/2.6e9dc9ce.chunk.js.map": "/pritvicleantech/static/js/2.6e9dc9ce.chunk.js.map",
+    "index.html": "/pritvicleantech/index.html",
+    "precache-manifest.14408b9c737af271d4ee1b911e751bcb.js": "/pritvicleantech/precache-manifest.14408b9c737af271d4ee1b911e751bcb.js",
+    "service-worker.js": "/pritvicleantech/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/pritvicleantech/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.6e9dc9ce.chunk.js.LICENSE.txt": "/pritvicleantech/static/js/2.6e9dc9ce.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/pritvicleantech/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3084f66f.js",
+    "static/js/2.6e9dc9ce.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.59ef35f4.chunk.js"
+  ]
+}
